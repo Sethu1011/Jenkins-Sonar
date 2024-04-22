@@ -1,1 +1,0 @@
-This is a tsample file created for webhook configuration 
